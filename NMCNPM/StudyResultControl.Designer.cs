@@ -87,18 +87,18 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(249, 17);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(51, 13);
+            this.label1.Size = new System.Drawing.Size(32, 13);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Semester";
+            this.label1.Text = "Class";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(249, 44);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(32, 13);
+            this.label2.Size = new System.Drawing.Size(46, 13);
             this.label2.TabIndex = 4;
-            this.label2.Text = "Class";
+            this.label2.Text = "Semeter";
             // 
             // StudyResultControl
             // 
